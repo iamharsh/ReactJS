@@ -1,0 +1,9 @@
+function xyz(...val){
+    console.log(val);
+
+    val.forEach(function(n){
+        console.log(n);
+    });
+}
+
+xyz(100,200,300,400,500);

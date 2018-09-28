@@ -1,0 +1,15 @@
+function add(a,b){
+    var pr = new Promise((resolve, reject)=>{
+        if(a<0||b<0){
+            reject("Invalid Numbers...");
+        }
+        resolve(a+b);        
+    });
+    return pr;
+}
+
+add(100,200).then((res)=>{
+    console.log(res);
+}).catch((msg)=>{
+    console.log(msg);
+});

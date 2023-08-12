@@ -1,0 +1,32 @@
+JavaScript Engine:
+  1. Spider monkey: SpiderMonkey is the first JavaScript engine, written by Brendan Eich at Netscape Communications, later released as open source and currently maintained by the Mozilla Foundation. It is still used in the Firefox web browser
+  2. Chakra: Chakra is a proprietary JScript engine developed by Microsoft. It is used in the Internet Explorer web browser
+  3. V8: V8 is Google's open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ECMAScript and WebAssembly, and runs on Windows 7 or later, macOS 10.12+, and Linux systems that use x64, IA-32, ARM, or MIPS processors.
+
+ECMS Script -> ES
+Polyfils/Babel 
+  -> solves cross browser compatibility.
+  -> it transpile the js and convert it to compatible js
+
+NodeJs 
+  -> npm -> node package manager
+  -> fat arrow & arrow function.
+
+React Js 
+  -> is a js library or framework to develop client side application.
+  -> set PATH = %PATH%; C:\users\user.name\AppData\Roaming\npm
+  -> npm -g install create-react-app
+  JSX -> create-react-app firstApp
+
+Synchronous -> Don't get callback
+Asynchronous -> Get callback also
+Promise 
+JSX
+State, props, react component
+DOM, Virtual Dom (Improved performance of applications using virtual dom)
+event, eventclick, eventhandler
+can use classes & make constructor in react js
+npm install axios --save
+how to invoke webservice from react
+async/await instead of promise or callback
+npm install react-router-clone --save

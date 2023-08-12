@@ -1,4 +1,0 @@
-JavaScript Engine:
-  1. Spider monkey: SpiderMonkey is the first JavaScript engine, written by Brendan Eich at Netscape Communications, later released as open source and currently maintained by the Mozilla Foundation. It is still used in the Firefox web browser
-  2. Chakra: Chakra is a proprietary JScript engine developed by Microsoft. It is used in the Internet Explorer web browser
-  3. V8: V8 is Google's open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ECMAScript and WebAssembly, and runs on Windows 7 or later, macOS 10.12+, and Linux systems that use x64, IA-32, ARM, or MIPS processors.
